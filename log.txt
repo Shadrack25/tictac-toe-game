@@ -1,0 +1,10 @@
+
+ SHADRACK VS BOT | SHADRACK
+
+ - | - | X 
+ ---------- 
+ - | X | - 
+ ----------
+ X | - | O
+
+
